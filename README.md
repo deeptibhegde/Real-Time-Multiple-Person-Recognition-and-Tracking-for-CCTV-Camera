@@ -4,3 +4,7 @@ A surveillance system for CCTV cameras which recognizes selected multiple target
 Facial recognition is done using HOG features and image embedding using OpenFace. We were able to perform simultaneous tracking and recognition of multiple individuals across multiple cameras in real time. 
 
 Winning project, Smart India Hackathon 2019.
+
+
+
+
