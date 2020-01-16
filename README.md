@@ -20,3 +20,19 @@ Winning project, Smart India Hackathon 2019.
 
 
 
+
+
+![res1](images/Trial.png)
+
+
+
+
+
+
+
+
+
+![res2GIF](images/ezgif.com-video-to-gif.gif)
+
+
+
