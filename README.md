@@ -15,7 +15,7 @@ Facial recognition is done using HOG features and image embedding using OpenFace
 Winning project, Smart India Hackathon 2019.
 
 
-![method](/images/Person Identification and Tracking Surveillance System.png)
+![method](/images/person.png)
 
 
 
