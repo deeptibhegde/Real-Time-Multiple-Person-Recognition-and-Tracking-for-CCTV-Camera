@@ -1,4 +1,8 @@
 # Real-Time-Multiple-Person-Recognition-and-Tracking-for-CCTV-Camera
+
+` Currently a repository for documentation, implementation details will be published in the future `
+
+
 A surveillance system for CCTV cameras which recognizes selected multiple target individuals and tracks in real time across multiple cameras, with detection, recognition, and kernel-based tracking modules. 
 
 
