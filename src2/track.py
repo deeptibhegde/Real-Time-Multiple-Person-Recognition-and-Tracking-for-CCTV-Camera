@@ -37,7 +37,7 @@ with open(filepath,"r",os.O_NONBLOCK) as fp:
 
 print(l)
 print(nae)
-f=deleteContent(f)
+f=deleteContent(fp)
 
 def track(img,l,nae):
     tracker = [dlib.correlation_tracker() for _ in range(len(l))]
