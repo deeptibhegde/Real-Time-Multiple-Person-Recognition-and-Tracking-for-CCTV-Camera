@@ -27,7 +27,7 @@ video_capture = cv2.VideoCapture(0)
 known_face_encodings = [ ]
 known_face_names = [ ]
 for i in os.listdir(path):
-    Known_image = face_recognition.load_image_file(os.path.join(i)) 
+    Known_image = face_recognition.load_image_file(os.path.join(path, i)) 
     Known_face_encoding = face_recognition.face_encodings(Known_image)[0]
     known_face_encodings.append(Known_face_encoding)
     l = i.split('.')
